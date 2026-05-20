@@ -58,3 +58,5 @@ raw = urllib.request.urlopen("http://localhost:8080/history").read().decode()
 data = json.loads(raw)
 
 print(data["history"])
+
+<img width="1068" height="669" alt="image" src="https://github.com/user-attachments/assets/092b0665-35f4-4ef8-86c5-ad7abb300c6c" />
