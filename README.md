@@ -59,4 +59,8 @@ data = json.loads(raw)
 
 print(data["history"])
 
+------------------------------------------------------------------------------------
+
+## 5. Sequence UML
+
 <img width="1068" height="669" alt="image" src="https://github.com/user-attachments/assets/092b0665-35f4-4ef8-86c5-ad7abb300c6c" />
