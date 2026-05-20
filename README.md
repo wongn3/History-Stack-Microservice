@@ -16,7 +16,7 @@ Note: No duplicates will be on the list and a call to '/visit' while a URL is in
 
 ## 2. How to run the microservice
 
-```bash
+``bash 
 python History_MS.py
 
 Note: The service listens on 'Host: localhost' on 'Port: 8080' which has a base
